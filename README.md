@@ -1,10 +1,5 @@
 # Hi, I'm Sunoj
 
-<p align="center">
-  <a href="https://github.com/sun-9545sunoj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA44F&center=true&vCenter=true&width=720&lines=I+build+machine+learning+and+data+projects;I+send+bug+fixes+to+open+source+projects;Learning+in+public%2C+one+commit+at+a+time" alt="Typing intro" />
-  </a>
-</p>
 
 **I work on machine learning and data projects, and send fixes to open source projects.**
 Student · Learner
@@ -25,6 +20,35 @@ Open pull requests:
 - **sktime**: fix `SingleWindowSplitter` and `CutoffSplitter` for integer indices with gaps ([#11390](https://github.com/sktime/sktime/pull/11390))
 
 ---
+### Tech I work with
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data, ML & infra**
+![Apache SeaTunnel](https://img.shields.io/badge/SeaTunnel-1E88E5?style=flat-square&logo=apache&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Iceberg-3E7CB1?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sun-9545sunoj&include_all_commits=true&count_private=true&hide=stars&hide_rank=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun-9545sunoj&layout=compact&langs_count=5&theme=default&hide_border=true" alt="Most used languages" />
+</p>
 
 ### Contributed to
 
@@ -62,34 +86,6 @@ Also: [LabMind-MCP](https://github.com/sun-9545sunoj/LabMind-MCP) (Python), [HFT
 
 ---
 
-### Tech I work with
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Data, ML & infra**
-![Apache SeaTunnel](https://img.shields.io/badge/SeaTunnel-1E88E5?style=flat-square&logo=apache&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Iceberg-3E7CB1?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sun-9545sunoj&include_all_commits=true&count_private=true&hide=stars&hide_rank=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun-9545sunoj&layout=compact&langs_count=5&theme=default&hide_border=true" alt="Most used languages" />
-</p>
 
 If something here overlaps with what you're building, open an issue on any of my repos or reach out on [LinkedIn](https://www.linkedin.com/in/sunoj-ragiri97).
