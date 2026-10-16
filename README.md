@@ -1,7 +1,5 @@
 # Sunoj
 
-Student focused on machine learning and data. This profile summarizes my GitHub activity and the projects I've worked on.
-
 [LinkedIn](https://www.linkedin.com/in/sunoj-ragiri97)
 
 ---
